@@ -1,4 +1,4 @@
-reportsmith.py - version 1.03 tested using Python 2.7.5 on Windows 7 x64
+reportsmith.py - version 1.04 tested using Python 2.7.5 on Windows 7 x64
 - Accepts command line argument to determine site-id and SiteName
 - Allows for commonly configurable settings to be edited via reportsmith.config
 - Consumes delimited data on a pipe
